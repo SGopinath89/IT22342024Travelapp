@@ -1,0 +1,16 @@
+{
+  "name": "myweb2",
+  "version": "1.0.0",
+  "description": "TravelWeb-Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "S.Tharmeekan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.5",
+    "nodemon": "^3.1.4"
+  }
+}
